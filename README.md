@@ -4,6 +4,10 @@ Turn "here's what I want to build" into a package someone could build from: what
 
 **What you get:** Turns a design, sketch, photo, CAD file or description of something to make into a fabrication package PDF plus a bill of materials CSV - overview diagram, parts and cut lists, sheet counts, file checklists and starting settings for laser cutting, 3D printing and CNC, hardware, a power budget with battery runtime, tools, numbered build steps with checkpoints, finishing, install and teardown, safety, vendors and a timeline. Totals come from a calculator script.
 
+![Pages from a sample Build Spec: overview and parts, cut list and sheets, settings, power and build steps](docs/preview.png)
+
+**See the full sample:** [Sample-Night-Market-Sign-Build-Spec.pdf](examples/Sample-Night-Market-Sign-Build-Spec.pdf) (fictional names and figures)
+
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/build-spec/issues/new)
 
 ## Install
@@ -36,6 +40,8 @@ mkdir -p ~/.claude/skills && cp -r build-spec/build-spec ~/.claude/skills/
 Then use `/build-spec`.
 
 ## Usage
+
+![Animated demo: example requests typed into Claude, each followed by what the Build Spec skill makes](docs/how-to-ask.gif)
 
 ```
 /build-spec <what you're building> [size] [where it will live] [tools you have] [budget] [deadline]
