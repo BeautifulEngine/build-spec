@@ -6,7 +6,7 @@ Turn "here's what I want to build" into a package someone could build from: what
 
 ![Pages from a sample Build Spec: overview and parts, cut list and sheets, settings, power and build steps](docs/preview.png)
 
-**See the full sample:** [Sample-Night-Market-Sign-Build-Spec.pdf](examples/Sample-Night-Market-Sign-Build-Spec.pdf) (fictional names and figures)
+**See the full sample:** [Sample-Night-Market-Sign-Build-Spec.pdf](examples/Sample-Night-Market-Sign-Build-Spec.pdf) (a sample project)
 
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/build-spec/issues/new)
 
